@@ -1,0 +1,63 @@
+Location,zillow-value,one-year-change,one-year-forcast,market-temperature,price-sqft,median-listing-price,median-sale-price,avg-days-on-market,negative-equity,delinquincy,rent-list-price,rent-sqft
+san-francisco-ca,"1,447,191",3.0,-0.8,Cool,"1,108","1,310,500","1,364,300",Nodata,0.026,0.002,"4,500",4.37
+Buena Vista neighbour,"1,895,546",4.1,-0.2,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Corona Heights neighbour,"1,807,548",5.4,0.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Haight neighbour,"1,722,314",1.5,-0.9,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Hayes Valley neighbour,"1,411,737",4.3,-0.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Panhandle neighbour,"1,568,787",1.7,-1.2,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Western Addition neighbour,"1,332,515",4.7,0.3,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Lone Mountain neighbour,"2,016,849",2.1,0.4,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Upper Market neighbour,"1,828,928",6.6,0.2,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Noe Valley neighbour,"2,180,031",5.3,0.6,Nodata,"1,210","1,595,000",Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Laurel Heights neighbour,"2,525,068",2.6,-0.5,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Inner Sunset neighbour,"1,775,304",2.1,-0.8,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Forest Knolls neighbour,"1,723,046",4.7,-0.5,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Lower Pacific Heights neighbour,"1,550,504",2.6,-0.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,"3,729",5.93
+Pacific Heights neighbour,"2,014,414",1.7,-1.4,Nodata,"1,274",Nodata,"2,165,100",Nodata,Nodata,Nodata,Nodata,Nodata
+South of Market neighbour,"1,067,121",2.9,-0.8,Cool,"1,120","1,171,000","1,088,400",Nodata,Nodata,Nodata,"4,300",4.95
+Presidio Heights neighbour,"4,948,331",6.7,-0.6,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Lake neighbour,"2,679,642",1.1,-1.7,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Inner Richmond neighbour,"2,139,254",1.8,-1.4,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Glen Park neighbour,"1,736,050",4.9,-0.0,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Miraloma Park neighbour,"1,589,209",1.8,-0.9,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Diamond Heights neighbour,"1,427,401",5.7,0.4,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Midtown Terrace neighbour,"1,686,769",5.2,-0.2,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Bernal Heights neighbour,"1,587,365",1.5,-1.3,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Mission neighbour,"1,506,592",1.6,-1.2,Nodata,"1,055","1,095,000",Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Mission Terrace neighbour,"1,314,992",2.7,0.2,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Cow Hollow neighbour,"3,598,483",6.0,-0.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Forest Hill neighbour,"2,258,417",6.2,-0.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Golden Gate Heights neighbour,"1,686,754",1.2,-1.0,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Marina neighbour,"2,402,845",2.6,-1.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Russian Hill neighbour,"1,838,217",2.0,-1.0,Nodata,"1,380","2,495,000",Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Nob Hill neighbour,"1,544,584",0.2,-2.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Financial District neighbour,"1,131,762",0.2,-1.7,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Potrero Hill neighbour,"1,514,888",0.2,-1.5,Nodata,"1,063",Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+North Beach neighbour,"1,376,459",1.3,-1.4,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Telegraph Hill neighbour,"1,194,091",5.6,-0.3,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+South Beach neighbour,"1,417,330",2.8,-1.4,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Downtown San Francisco neighbour,"1,153,302",2.8,-1.3,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Seacliff neighbour,"4,203,253",6.4,-0.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Outer Richmond neighbour,"1,638,102",3.6,-0.7,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Westwood Highlands neighbour,"1,820,287",3.0,0.6,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Sunnyside neighbour,"1,374,729",2.4,-0.7,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Excelsior neighbour,"1,157,135",3.9,0.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Mount Davidson Manor neighbour,"1,702,852",3.6,-0.2,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Westwood Park neighbour,"1,704,776",3.1,1.0,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Portola neighbour,"1,180,434",2.7,-1.7,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Silver Terrace neighbour,"1,055,065",-3.1,-1.4,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Bayview neighbour,"1,032,682",4.7,-0.5,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Crocker Amazon neighbour,"1,136,531",4.6,-0.3,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Parkside neighbour,"1,462,524",4.9,-0.6,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+North Waterfront neighbour,"1,613,038",0.0,-0.3,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Outer Sunset neighbour,"1,426,495",5.0,-0.1,Nodata,854,"1,197,500",Nodata,Nodata,Nodata,Nodata,"4,250",2.87
+Ingleside Terrace neighbour,"2,005,650",7.0,2.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Ingleside neighbour,"1,198,895",-2.4,-1.9,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Oceanview neighbour,"1,085,615",3.6,0.1,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Outer Mission neighbour,"1,073,887",4.6,0.3,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Visitacion Valley neighbour,"971,176",2.9,-2.2,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Stonestown neighbour,"1,743,085",5.5,0.3,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Ingleside Heights neighbour,"1,047,145",6.9,0.6,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Little Hollywood neighbour,"968,907",-4.0,-4.7,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Lakeshore neighbour,"1,542,522",1.2,-1.4,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
+Broadmoor neighbour,"1,013,108",6.4,2.0,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata,Nodata
