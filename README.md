@@ -1,4 +1,4 @@
-# zillow_Scarper
+# zillow_Scraper
 
 Step1:Goto the current working directory from command prompt
 
